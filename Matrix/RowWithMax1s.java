@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RowWthMax1s {
+public class RowWithMax1s {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
